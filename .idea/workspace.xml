@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3620dfba-bc69-410f-baf9-4d1b8e3904f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/_footer.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,10 +169,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="508" y="379" key="NewPhpFileDialog" timestamp="1583155445792">
+    <state x="508" y="379" key="NewPhpFileDialog" timestamp="1583159147978">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="508" y="379" key="NewPhpFileDialog/-681.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1583155445792" />
+    <state x="508" y="379" key="NewPhpFileDialog/-681.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1583159147978" />
     <state width="625" height="500" key="SwitcherDM" timestamp="1583155368083">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
